@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "LunaFlow",
+    "subtitle": "Built with Zara",
+    "description": "LunaFlow is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://90c8d722cfc747e5b28f98d69c5c09aa-tydm.vercel.app",
+    "splashImageUrl": "https://90c8d722cfc747e5b28f98d69c5c09aa-tydm.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://90c8d722cfc747e5b28f98d69c5c09aa-tydm.vercel.app/image.png",
+    "tagline": "LunaFlow",
+    "screenshotUrls": [
+      "https://90c8d722cfc747e5b28f98d69c5c09aa-tydm.vercel.app/screenshot.png",
+      "https://90c8d722cfc747e5b28f98d69c5c09aa-tydm.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://90c8d722cfc747e5b28f98d69c5c09aa-tydm.vercel.app/api/webhook"
+  }
+}
