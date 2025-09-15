@@ -8,6 +8,8 @@ const nextConfig = {
     NEXT_PUBLIC_MINIKIT_API_KEY: process.env.NEXT_PUBLIC_MINIKIT_API_KEY,
     NEXT_PUBLIC_ONCHAINKIT_API_KEY: process.env.NEXT_PUBLIC_ONCHAINKIT_API_KEY,
   },
+  // Disable static generation to avoid wagmi provider issues
+  output: 'standalone',
 };
 
 export default nextConfig;
