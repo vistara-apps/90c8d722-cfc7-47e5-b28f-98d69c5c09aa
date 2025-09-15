@@ -342,3 +342,6 @@ export default function HomePage() {
     </AppShell>
   );
 }
+
+// Force dynamic rendering to avoid static generation issues with wagmi
+export const dynamic = 'force-dynamic';
